@@ -1,0 +1,5 @@
+Dit is versie 2 van jesper3.txt
+
+Dit is een toevoeging op jesper3.txt en zal straks verdwenen zijn bij het terugzetten van versie 0.1
+
+Dit is een extra toevoeging op het bestand
