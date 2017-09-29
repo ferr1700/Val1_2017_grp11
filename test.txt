@@ -1,1 +1,3 @@
 Dit is een test voor opdracht GIT.
+
+Dit is een bewerking in het document van Valeria en is gemaakt door Jesper.
